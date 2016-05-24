@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Domain Life]]></title>
+        <description><![CDATA[Domain Life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 May 2016 01:22:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Domain Life's portfolio of premium, top-shelf, domain names. All that you see are currently available for purchase and/or are in the midst of an escrow transaction closing. We get many questions & offers regarding all domains very frequently. With that said, should you have interest in any particular name(s), don't hesitate to send any question(s) you may procure and/or price negotiation proposals. </p>]]></description>
+            <link>undefinedwelcome-to-domain-lifes-portfolio-of-premium-top-shelf-do/index.html</link>
+            <guid isPermaLink="false">8ad3fc55-e8f9-4e5e-8d00-ae4b08dde6e2</guid>
+            <pubDate>Tue, 24 May 2016 01:21:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
